@@ -276,7 +276,7 @@
  }
  
  #levelThree:hover {
-     background-image: url(planes/plane_1/plane_1_yellow.png);
+     background-image: url(plane_1_yellow.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -284,7 +284,7 @@
  }
  
  #levelFour:hover {
-     background-image: url(planes/plane_1/plane_1_pink.png);
+     background-image: url(plane_1_pink.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -292,7 +292,7 @@
  }
  
  #levelFive:hover {
-     background-image: url(planes/plane_2/plane_2_yellow.png);
+     background-image: url(plane_2_yellow.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -300,7 +300,7 @@
  }
  
  #levelSix:hover {
-     background-image: url(planes/plane_2/plane_2_red.png);
+     background-image: url(plane_2_red.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -308,7 +308,7 @@
  }
  
  #levelSeven:hover {
-     background-image: url(planes/plane_2/plane_2_green.png);
+     background-image: url(plane_2_green.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -316,7 +316,7 @@
  }
  
  #levelEight:hover {
-     background-image: url(planes/plane_2/plane_2_blue.png);
+     background-image: url(plane_2_blue.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -324,7 +324,7 @@
  }
  
  #levelNine:hover {
-     background-image: url(planes/plane_3/plane_3_blue.png);
+     background-image: url(plane_3_blue.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -332,7 +332,7 @@
  }
  
  #levelTen:hover {
-     background-image: url(planes/plane_3/plane_3_red.png);
+     background-image: url(plane_3_red.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -340,7 +340,7 @@
  }
  
  #levelEleven:hover {
-     background-image: url(planes/plane_3/plane_3_yellow.png);
+     background-image: url(plane_3_yellow.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -348,7 +348,7 @@
  }
  
  #levelTwelve:hover {
-     background-image: url(planes/plane_3/plane_3_green.png);
+     background-image: url(plane_3_green.png);
      background-size: cover;
      color: white;
      cursor: pointer;
@@ -438,73 +438,73 @@
  
  @keyframes goldflyingBird {
      0% {
-         background-image: url(/keyframes/__gold_coin_fly_no_up_down_movement_000.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_000.png);
      }
      10% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_001.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_001.png);
      }
      20% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_002.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_002.png);
      }
      30% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_003.png)
+         background-image: url(__gold_coin_fly_no_up_down_movement_003.png)
      }
      40% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_004.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_004.png);
      }
      50% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_005.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_005.png);
      }
      60% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_006.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_006.png);
      }
      70% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_007.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_007.png);
      }
      80% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_008.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_008.png);
      }
      90% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_009.png)
+         background-image: url(__gold_coin_fly_no_up_down_movement_009.png)
      }
      100% {
-         background-image: url(keyframes/__gold_coin_fly_no_up_down_movement_010.png);
+         background-image: url(__gold_coin_fly_no_up_down_movement_010.png);
      }
  }
  
  @keyframes silverFlyingBird {
      0% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_000.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_000.png);
      }
      10% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_001.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_001.png);
      }
      20% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_002.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_002.png);
      }
      30% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_003.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_003.png);
      }
      40% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_004.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_004.png);
      }
      50% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_005.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_005.png);
      }
      60% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_006.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_006.png);
      }
      70% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_007.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_007.png);
      }
      80% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_008.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_008.png);
      }
      90% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_009.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_009.png);
      }
      100% {
-         background-image: url(keyframes/__silver_coin_fly_no_up_down_movement_010.png);
+         background-image: url(__silver_coin_fly_no_up_down_movement_010.png);
      }
  }
  

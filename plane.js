@@ -1,6 +1,6 @@
 //all thanks to God for making me code another game
-
-
+//thanks for playing my game feel free to edit the code to your taste afterall we are programmers :);
+//let's get coding
 //initialize the api variable
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");

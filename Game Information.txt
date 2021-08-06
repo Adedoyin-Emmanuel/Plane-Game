@@ -14,10 +14,17 @@ If your score is not up to 100 after you move up above the screen or below the s
 
 
 
-
+this is a vanilla javascript game with no libraries please if you find any bug free to contact me at adedoyine535@gmail.com or message me on facebook at Adedoyin Emmanuel Adeniyi more games to be published by emmy stay tuned
 
 
 I hope you enjoy my game support me at www.EmmySoftGames.com or visit my company website at www.DoyinTech.com
+
+
+SPECIAL THANKS TO 
+special thanks to game developers studio.com who provided the images for this game 
+you can visit their site to purchase cool images for you game and also open art.org for the sounds i used in this project
+
+
 
 
 fourth game dev with javascript 
